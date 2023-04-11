@@ -34,10 +34,10 @@ function Hero() {
   return (
     <div class="text-center px-8 py-16 max-w-7xl mx-auto text-white space-y-8 flex-1 flex flex-col justify-center mt-[-112px]">
       <h1 class="font-bold text-3xl md:text-7xl">
-        Your SaaS here.
+        Thanks for the interview!
       </h1>
       <p class="text-xl">
-        Some details about your SaaS.
+        This isn't WordPress, but I like how it works.
       </p>
       <div class="flex justify-center gap-8 flex-wrap">
         <LinkButton href="/signup">Signup</LinkButton>
