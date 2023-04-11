@@ -41,12 +41,6 @@ function Hero() {
       </p>
       <div class="flex justify-center gap-8 flex-wrap">
         <LinkButton href="/signup">Signup</LinkButton>
-        <LinkButton
-          href="#"
-          class="!bg-white border-2 border-pink-700 text-pink-700 hover:border-black hover:text-black transition duration-300"
-        >
-          Learn more
-        </LinkButton>
       </div>
     </div>
   );
